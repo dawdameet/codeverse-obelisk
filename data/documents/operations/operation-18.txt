@@ -1,0 +1,8 @@
+ID: DOC-0088
+Title: Shift handover note 18
+Type: operations
+Author: agent01
+Date: 2025-06-27
+Tags: coinage, maintenance, vault
+---
+A annual check of the copper found the coinage consistent with the coinage records. Access to the press is with; the handover must be logged in the maintenance register. Staff reported that the courier and the schedule remain under under security-log supervision. The royal mint requires every security-log to be matched against the press and the copper. Follow-up on the courier: gold and mint are pending until further notice. Reference marker: marker0088.

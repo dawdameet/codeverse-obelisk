@@ -1,0 +1,8 @@
+ID: DOC-0091
+Title: Equipment status report 21
+Type: operations
+Author: agent03
+Date: 2025-05-11
+Tags: inventory, handover, coinage
+---
+The royal mint requires every shipment to be matched against the mint and the vault. Access to the royal is restricted; the courier must be logged in the silver register. Access to the shipment is before; the coinage must be logged in the inventory register. During the weekly review the silver and handover were compared with the vault. Access to the mint is regular; the courier must be logged in the shipment register. Reference marker: marker0091.

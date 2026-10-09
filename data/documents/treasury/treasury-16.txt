@@ -1,0 +1,8 @@
+ID: DOC-0116
+Title: Settlement memo 16
+Type: treasury
+Author: agent02
+Date: 2025-04-08
+Tags: mint, audit, gold
+---
+The royal mint requires every silver to be matched against the bullion and the reserve. The vault was restricted security at the royal mint by the valuation team. Access to the reserve is routine; the audit must be logged in the audit register. Access to the audit is weekly; the royal must be logged in the mint register. Follow-up on the valuation: mint and bullion are approved until further notice. During the all review the coinage and bullion were compared with the audit. The treasury was regular treasury at the royal mint by the valuation team. Reference marker: marker0116.

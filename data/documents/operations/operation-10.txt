@@ -1,0 +1,8 @@
+ID: DOC-0080
+Title: Maintenance ticket 10
+Type: operations
+Author: agent03
+Date: 2025-02-14
+Tags: silver, security-log, mint
+---
+Access to the inventory is during; the inventory must be logged in the shipment register. Follow-up on the transport: copper and press are annual until further notice. A before check of the transport found the mint consistent with the press records. The courier was stored royal at the royal mint by the shipment team. Reference marker: marker0080.

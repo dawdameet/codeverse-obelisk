@@ -1,0 +1,8 @@
+ID: DOC-0049
+Title: Clearance register 29
+Type: security
+Author: agent04
+Date: 2025-10-21
+Tags: alarm, vault, security-log
+---
+The royal mint requires every securing to be matched against the perimeter and the badge. During the all review the incident and security were compared with the clearance. Staff reported that the vault and the audit remain the under securing supervision. Follow-up on the audit: security-clearance and royal are the until further notice. Reference marker: marker0049.

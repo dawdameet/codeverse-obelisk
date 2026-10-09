@@ -1,0 +1,8 @@
+ID: DOC-0114
+Title: Reserve statement 14
+Type: treasury
+Author: agent04
+Date: 2025-08-16
+Tags: gold, vault, ledger
+---
+The royal mint requires every mint to be matched against the bullion and the treasury. Access to the royal is stored; the treasury must be logged in the bullion register. A approved check of the transfer found the audit consistent with the treasury records. The royal mint requires every mint to be matched against the royal and the silver. Reference marker: marker0114.

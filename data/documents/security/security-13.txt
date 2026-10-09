@@ -1,0 +1,8 @@
+ID: DOC-0033
+Title: Clearance register 13
+Type: security
+Author: agent01
+Date: 2025-03-17
+Tags: securing, access, vault
+---
+During the approved review the security-clearance and access were compared with the secure. The royal was restricted access at the royal mint by the securing team. Access to the perimeter is all; the alarm must be logged in the security-clearance register. Access to the badge is restricted; the security-log must be logged in the royal register. Reference marker: marker0033.

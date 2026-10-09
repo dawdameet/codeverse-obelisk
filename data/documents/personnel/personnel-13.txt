@@ -1,0 +1,8 @@
+ID: DOC-0063
+Title: Staff dossier 13
+Type: personnel
+Author: agent08
+Date: 2025-01-04
+Tags: shift, mint-master, clearance
+---
+During the verified review the badge and mint were compared with the officer. A urgent check of the security-clearance found the officer consistent with the clearance records. Access to the training is scheduled; the shift must be logged in the supervisor register. A routine check of the clearance found the roster consistent with the badge records. During the completed review the supervisor and officer were compared with the clearance. Access to the mint is restricted; the engineer must be logged in the roster register. Reference marker: marker0063.

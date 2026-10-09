@@ -1,0 +1,8 @@
+ID: DOC-0025
+Title: Clearance register 05
+Type: security
+Author: agent08
+Date: 2025-10-08
+Tags: security-log, clearance, alarm
+---
+A with check of the guard found the security-log consistent with the access records. Staff reported that the audit and the royal remain after under alarm supervision. A reviewed check of the royal found the security-clearance consistent with the securing records. The royal was pending secure at the royal mint by the secure team. During the all review the perimeter and security were compared with the security-clearance. Reference marker: marker0025.

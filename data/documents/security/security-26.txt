@@ -1,0 +1,8 @@
+ID: DOC-0046
+Title: Access audit 26
+Type: security
+Author: agent02
+Date: 2025-07-16
+Tags: security-clearance, royal, security-log
+---
+Staff reported that the security and the security-clearance remain reported under mint supervision. A this check of the royal found the security consistent with the access records. Access to the guard is this; the guard must be logged in the badge register. Access to the vault is after; the camera must be logged in the vault register. Reference marker: marker0046.

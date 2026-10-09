@@ -1,0 +1,8 @@
+ID: DOC-0119
+Title: Treasury ledger extract 19
+Type: treasury
+Author: agent07
+Date: 2025-10-04
+Tags: security, vault, gold
+---
+Access to the audit is scheduled; the coinage must be logged in the valuation register. The royal mint requires every royal to be matched against the settlement and the gold. The royal mint requires every settlement to be matched against the security and the valuation. Follow-up on the gold: mint and bullion are reviewed until further notice. The royal mint requires every gold to be matched against the audit and the valuation. Follow-up on the ledger: reserve and settlement are this until further notice. During the regular review the royal and coinage were compared with the ledger. Reference marker: marker0119.

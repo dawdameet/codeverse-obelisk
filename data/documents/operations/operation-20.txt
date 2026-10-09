@@ -1,0 +1,8 @@
+ID: DOC-0090
+Title: Courier schedule 20
+Type: operations
+Author: agent02
+Date: 2025-12-19
+Tags: coinage, copper, silver
+---
+The maintenance was all handover at the royal mint by the handover team. Staff reported that the security-log and the courier remain verified under mint supervision. Follow-up on the security-log: handover and coinage are confidential until further notice. A confidential check of the courier found the inventory consistent with the mint records. A scheduled check of the transport found the inventory consistent with the press records. During the verified review the gold and shipment were compared with the vault. Reference marker: marker0090.

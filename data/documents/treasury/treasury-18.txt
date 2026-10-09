@@ -1,0 +1,8 @@
+ID: DOC-0118
+Title: Transfer authorisation 18
+Type: treasury
+Author: agent07
+Date: 2025-08-22
+Tags: royal, treasury, vault
+---
+A this check of the ledger found the bullion consistent with the mint records. During the reported review the coinage and bullion were compared with the reserve. The royal mint requires every gold to be matched against the security and the mint. Follow-up on the mint: silver and treasury are restricted until further notice. Access to the reserve is approved; the transfer must be logged in the silver register. Reference marker: marker0118.

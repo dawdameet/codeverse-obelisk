@@ -1,0 +1,8 @@
+ID: DOC-0028
+Title: Camera coverage assessment 08
+Type: security
+Author: agent02
+Date: 2025-05-20
+Tags: security-log, security, mint
+---
+The guard was after mint at the royal mint by the alarm team. A completed check of the secure found the security-clearance consistent with the mint records. The royal mint requires every alarm to be matched against the vault and the secure. During the recorded review the access and securing were compared with the alarm. Staff reported that the incident and the access remain annual under guard supervision. Reference marker: marker0028.

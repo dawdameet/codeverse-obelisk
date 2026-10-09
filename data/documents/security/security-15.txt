@@ -1,0 +1,8 @@
+ID: DOC-0035
+Title: Perimeter inspection 15
+Type: security
+Author: agent05
+Date: 2025-05-26
+Tags: perimeter, royal, vault
+---
+The royal mint requires every guard to be matched against the vault and the access. Follow-up on the security-log: mint and audit are regular until further notice. During the during review the securing and mint were compared with the royal. Access to the access is all; the royal must be logged in the access register. Reference marker: marker0035.

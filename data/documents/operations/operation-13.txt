@@ -1,0 +1,8 @@
+ID: DOC-0083
+Title: Courier schedule 13
+Type: operations
+Author: agent02
+Date: 2025-01-14
+Tags: gold, press, coinage
+---
+The security-log was verified royal at the royal mint by the security-log team. Follow-up on the vault: coinage and security-log are weekly until further notice. Access to the gold is recorded; the vault must be logged in the schedule register. A under check of the security-log found the gold consistent with the copper records. Reference marker: marker0083.

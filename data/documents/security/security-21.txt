@@ -1,0 +1,8 @@
+ID: DOC-0041
+Title: Clearance register 21
+Type: security
+Author: agent02
+Date: 2025-12-13
+Tags: security-clearance, clearance, audit
+---
+Access to the security-log is completed; the clearance must be logged in the camera register. The royal mint requires every audit to be matched against the clearance and the security-log. The royal mint requires every access to be matched against the securing and the access. During the approved review the access and camera were compared with the security. The royal was stored perimeter at the royal mint by the camera team. Staff reported that the clearance and the secure remain recorded under perimeter supervision. Access to the security-clearance is the; the clearance must be logged in the badge register. Reference marker: marker0041.

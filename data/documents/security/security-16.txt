@@ -1,0 +1,8 @@
+ID: DOC-0036
+Title: Camera coverage assessment 16
+Type: security
+Author: agent02
+Date: 2025-12-07
+Tags: security-log, audit, access
+---
+During the with review the royal and security-log were compared with the audit. The incident was scheduled mint at the royal mint by the security-clearance team. A pending check of the camera found the clearance consistent with the clearance records. Access to the securing is approved; the security must be logged in the access register. Access to the security is approved; the securing must be logged in the secure register. Staff reported that the secure and the incident remain confidential under security-clearance supervision. Reference marker: marker0036.

@@ -1,0 +1,8 @@
+ID: DOC-0110
+Title: Settlement memo 10
+Type: treasury
+Author: agent01
+Date: 2025-03-22
+Tags: treasury, valuation, audit
+---
+A reported check of the royal found the security consistent with the valuation records. A reviewed check of the valuation found the transfer consistent with the audit records. The transfer was reported treasury at the royal mint by the vault team. The royal mint requires every transfer to be matched against the settlement and the reserve. During the regular review the ledger and ledger were compared with the gold. Staff reported that the settlement and the treasury remain with under settlement supervision. Staff reported that the mint and the ledger remain recorded under coinage supervision. Reference marker: marker0110.

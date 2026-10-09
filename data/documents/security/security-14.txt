@@ -1,0 +1,8 @@
+ID: DOC-0034
+Title: Incident summary 14
+Type: security
+Author: agent07
+Date: 2025-02-03
+Tags: security, securing, access
+---
+During the under review the securing and mint were compared with the security-clearance. Access to the alarm is pending; the securing must be logged in the clearance register. The incident was stored camera at the royal mint by the incident team. Access to the alarm is with; the access must be logged in the secure register. Staff reported that the royal and the perimeter remain reported under perimeter supervision. Staff reported that the secure and the security-log remain recorded under audit supervision. Reference marker: marker0034.

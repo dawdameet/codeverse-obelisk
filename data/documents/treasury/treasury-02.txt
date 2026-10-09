@@ -1,0 +1,8 @@
+ID: DOC-0102
+Title: Reserve statement 02
+Type: treasury
+Author: agent03
+Date: 2025-01-25
+Tags: vault, bullion, transfer
+---
+A this check of the security found the coinage consistent with the vault records. Access to the silver is during; the reserve must be logged in the audit register. Follow-up on the silver: vault and silver are pending until further notice. Staff reported that the bullion and the settlement remain recorded under transfer supervision. Follow-up on the valuation: silver and mint are scheduled until further notice. Staff reported that the treasury and the gold remain under under settlement supervision. Reference marker: marker0102.

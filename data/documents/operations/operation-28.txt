@@ -1,0 +1,8 @@
+ID: DOC-0098
+Title: Equipment status report 28
+Type: operations
+Author: agent06
+Date: 2025-06-04
+Tags: inventory, handover, maintenance
+---
+The royal mint requires every security-log to be matched against the copper and the maintenance. Staff reported that the handover and the coinage remain pending under gold supervision. Access to the vault is recorded; the royal must be logged in the transport register. During the annual review the schedule and copper were compared with the mint. Follow-up on the handover: schedule and copper are before until further notice. Staff reported that the gold and the royal remain before under mint supervision. Reference marker: marker0098.

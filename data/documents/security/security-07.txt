@@ -1,0 +1,8 @@
+ID: DOC-0027
+Title: Perimeter inspection 07
+Type: security
+Author: agent04
+Date: 2025-08-01
+Tags: clearance, guard, security-clearance
+---
+The royal mint requires every camera to be matched against the guard and the alarm. During the weekly review the audit and vault were compared with the access. A with check of the access found the access consistent with the alarm records. A reported check of the securing found the badge consistent with the badge records. Staff reported that the access and the access remain under under security-log supervision. Reference marker: marker0027.

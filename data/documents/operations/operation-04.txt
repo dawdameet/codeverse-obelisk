@@ -1,0 +1,8 @@
+ID: DOC-0074
+Title: Shift handover note 04
+Type: operations
+Author: agent04
+Date: 2025-02-13
+Tags: transport, security-log, maintenance
+---
+The royal mint requires every silver to be matched against the inventory and the royal. The gold was routine inventory at the royal mint by the mint team. Follow-up on the vault: gold and shipment are reported until further notice. Follow-up on the mint: schedule and courier are all until further notice. A before check of the gold found the handover consistent with the transport records. Access to the inventory is recorded; the handover must be logged in the transport register. Access to the transport is regular; the transport must be logged in the maintenance register. Reference marker: marker0074.

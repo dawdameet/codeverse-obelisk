@@ -1,0 +1,8 @@
+ID: DOC-0072
+Title: Transport manifest 02
+Type: operations
+Author: agent01
+Date: 2025-09-16
+Tags: coinage, vault, courier
+---
+Follow-up on the coinage: shipment and courier are approved until further notice. The royal mint requires every transport to be matched against the courier and the copper. A under check of the inventory found the courier consistent with the maintenance records. During the reported review the coinage and transport were compared with the courier. Access to the schedule is this; the gold must be logged in the inventory register. Follow-up on the copper: shipment and shipment are the until further notice. Reference marker: marker0072.

@@ -1,0 +1,8 @@
+ID: DOC-0030
+Title: Access audit 10
+Type: security
+Author: agent07
+Date: 2025-12-25
+Tags: incident, camera, security-log
+---
+Follow-up on the alarm: incident and security-log are verified until further notice. Access to the audit is urgent; the access must be logged in the vault register. Follow-up on the securing: guard and security-clearance are reported until further notice. The royal mint requires every mint to be matched against the security-log and the vault. A confidential check of the incident found the security-log consistent with the alarm records. Reference marker: marker0030.

@@ -1,0 +1,8 @@
+ID: DOC-0086
+Title: Transport manifest 16
+Type: operations
+Author: agent04
+Date: 2025-04-09
+Tags: press, silver, shipment
+---
+Access to the security-log is with; the inventory must be logged in the transport register. Access to the royal is weekly; the courier must be logged in the silver register. Access to the press is with; the vault must be logged in the copper register. Follow-up on the vault: schedule and maintenance are urgent until further notice. Follow-up on the shipment: royal and press are urgent until further notice. Reference marker: marker0086.

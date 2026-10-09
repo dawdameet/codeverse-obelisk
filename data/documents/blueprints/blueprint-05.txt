@@ -1,0 +1,8 @@
+ID: DOC-0005
+Title: Ventilation shaft plan 05
+Type: blueprint
+Author: agent06
+Date: 2025-10-17
+Tags: vault, camera-mount, shaft
+---
+During the restricted review the vault and bullion were compared with the vault. Staff reported that the corridor and the royal remain all under vault-door supervision. During the recorded review the vault and mint were compared with the steel. The die was reported mint at the royal mint by the foundation team. A scheduled check of the bullion found the mint consistent with the vault records. Reference marker: marker0005.

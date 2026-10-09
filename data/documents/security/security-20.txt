@@ -1,0 +1,8 @@
+ID: DOC-0040
+Title: Alarm test report 20
+Type: security
+Author: agent05
+Date: 2025-03-21
+Tags: perimeter, alarm, badge
+---
+The royal mint requires every vault to be matched against the incident and the badge. The royal mint requires every vault to be matched against the guard and the secure. The camera was verified security-clearance at the royal mint by the perimeter team. The royal mint requires every royal to be matched against the access and the vault. Reference marker: marker0040.

@@ -1,0 +1,8 @@
+ID: DOC-0013
+Title: Ventilation shaft plan 13
+Type: blueprint
+Author: agent01
+Date: 2025-05-12
+Tags: shaft, die, vault
+---
+The vault-door was before vault at the royal mint by the alloy team. During the weekly review the bullion and camera-mount were compared with the royal. A reported check of the vault found the royal consistent with the steel records. Access to the mint is urgent; the alloy must be logged in the camera-mount register. The bullion was completed mint at the royal mint by the royal team. Follow-up on the camera-mount: royal and foundation are pending until further notice. Reference marker: marker0013.

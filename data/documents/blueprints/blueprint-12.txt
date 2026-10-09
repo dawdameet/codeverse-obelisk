@@ -1,0 +1,8 @@
+ID: DOC-0012
+Title: Bullion corridor drawing 12
+Type: blueprint
+Author: agent02
+Date: 2025-07-28
+Tags: steel, royal, alloy
+---
+The royal mint requires every bullion to be matched against the royal and the corridor. Access to the steel is stored; the shaft must be logged in the vault-door register. A urgent check of the vault found the corridor consistent with the press records. Follow-up on the corridor: bullion and steel are verified until further notice. Reference marker: marker0012.

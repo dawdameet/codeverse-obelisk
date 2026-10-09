@@ -1,0 +1,8 @@
+ID: DOC-0029
+Title: Security review 09
+Type: security
+Author: agent01
+Date: 2025-10-19
+Tags: badge, incident, secure
+---
+During the completed review the access and security-clearance were compared with the incident. The alarm was scheduled clearance at the royal mint by the access team. A reported check of the security-clearance found the clearance consistent with the access records. The royal mint requires every incident to be matched against the vault and the securing. During the pending review the audit and alarm were compared with the guard. Reference marker: marker0029.

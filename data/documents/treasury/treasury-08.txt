@@ -1,0 +1,8 @@
+ID: DOC-0108
+Title: Reserve statement 08
+Type: treasury
+Author: agent04
+Date: 2025-02-09
+Tags: silver, transfer, security
+---
+Access to the treasury is with; the ledger must be logged in the settlement register. Follow-up on the transfer: mint and bullion are reviewed until further notice. Access to the silver is regular; the audit must be logged in the ledger register. The royal mint requires every coinage to be matched against the mint and the silver. Reference marker: marker0108.

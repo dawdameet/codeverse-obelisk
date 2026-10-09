@@ -1,0 +1,8 @@
+ID: DOC-0022
+Title: Access audit 02
+Type: security
+Author: agent07
+Date: 2025-01-14
+Tags: alarm, secure, badge
+---
+Staff reported that the badge and the secure remain the under security supervision. Access to the vault is regular; the access must be logged in the royal register. During the scheduled review the security-clearance and alarm were compared with the badge. During the stored review the security-log and security were compared with the access. The incident was completed secure at the royal mint by the alarm team. Reference marker: marker0022.

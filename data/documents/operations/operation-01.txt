@@ -1,0 +1,8 @@
+ID: DOC-0071
+Title: Daily operations log 01
+Type: operations
+Author: agent02
+Date: 2025-07-20
+Tags: gold, transport, inventory
+---
+The royal mint requires every transport to be matched against the inventory and the shipment. During the before review the coinage and gold were compared with the schedule. Follow-up on the vault: vault and schedule are urgent until further notice. The royal mint requires every handover to be matched against the security-log and the gold. Reference marker: marker0071.

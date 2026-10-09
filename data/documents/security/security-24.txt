@@ -1,0 +1,8 @@
+ID: DOC-0044
+Title: Camera coverage assessment 24
+Type: security
+Author: agent01
+Date: 2025-08-10
+Tags: incident, secure, security
+---
+Follow-up on the royal: mint and audit are before until further notice. The audit was reported access at the royal mint by the audit team. The royal mint requires every security to be matched against the securing and the perimeter. The camera was the alarm at the royal mint by the security team. A weekly check of the access found the security consistent with the incident records. Access to the badge is completed; the badge must be logged in the guard register. Reference marker: marker0044.

@@ -1,0 +1,8 @@
+ID: DOC-0021
+Title: Security review 01
+Type: security
+Author: agent03
+Date: 2025-06-18
+Tags: audit, secure, perimeter
+---
+The securing was during guard at the royal mint by the securing team. Staff reported that the access and the clearance remain this under audit supervision. Follow-up on the mint: security-clearance and camera are stored until further notice. Follow-up on the incident: access and mint are approved until further notice. Reference marker: marker0021.

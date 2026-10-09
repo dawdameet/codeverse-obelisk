@@ -1,0 +1,8 @@
+ID: DOC-0107
+Title: Treasury ledger extract 07
+Type: treasury
+Author: agent03
+Date: 2025-10-05
+Tags: silver, gold, vault
+---
+A reported check of the audit found the coinage consistent with the valuation records. The treasury was routine treasury at the royal mint by the audit team. Follow-up on the ledger: settlement and gold are this until further notice. Staff reported that the valuation and the security remain restricted under royal supervision. Reference marker: marker0107.

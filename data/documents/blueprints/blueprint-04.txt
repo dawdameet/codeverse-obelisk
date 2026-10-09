@@ -1,0 +1,8 @@
+ID: DOC-0004
+Title: Bullion corridor drawing 04
+Type: blueprint
+Author: agent08
+Date: 2025-05-08
+Tags: steel, corridor, shaft
+---
+During the verified review the corridor and steel were compared with the alloy. The foundation was reported steel at the royal mint by the foundation team. The corridor was routine vault-door at the royal mint by the die team. The royal mint requires every foundation to be matched against the steel and the press. The royal mint requires every corridor to be matched against the bullion and the mint. Follow-up on the alloy: royal and royal are restricted until further notice. Reference marker: marker0004.

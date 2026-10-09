@@ -1,0 +1,8 @@
+ID: DOC-0043
+Title: Perimeter inspection 23
+Type: security
+Author: agent03
+Date: 2025-09-13
+Tags: royal, clearance, security-log
+---
+Follow-up on the securing: audit and secure are annual until further notice. A confidential check of the securing found the mint consistent with the access records. Follow-up on the guard: securing and security-log are pending until further notice. A restricted check of the access found the security-log consistent with the alarm records. Staff reported that the mint and the camera remain routine under incident supervision. Access to the security-log is urgent; the alarm must be logged in the camera register. Reference marker: marker0043.

@@ -1,0 +1,8 @@
+ID: DOC-0101
+Title: Treasury ledger extract 01
+Type: treasury
+Author: agent05
+Date: 2025-06-07
+Tags: coinage, bullion, settlement
+---
+Access to the security is before; the valuation must be logged in the audit register. During the this review the royal and security were compared with the valuation. A under check of the ledger found the gold consistent with the vault records. Staff reported that the mint and the ledger remain recorded under royal supervision. The royal mint requires every coinage to be matched against the vault and the royal. Reference marker: marker0101.

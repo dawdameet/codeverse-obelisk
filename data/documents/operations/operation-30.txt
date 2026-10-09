@@ -1,0 +1,8 @@
+ID: DOC-0100
+Title: Transport manifest 30
+Type: operations
+Author: agent02
+Date: 2025-04-13
+Tags: vault, courier, royal
+---
+The courier was annual maintenance at the royal mint by the silver team. The royal mint requires every silver to be matched against the mint and the security-log. A reported check of the copper found the copper consistent with the transport records. The royal mint requires every schedule to be matched against the transport and the shipment. Follow-up on the transport: copper and courier are approved until further notice. Follow-up on the copper: schedule and handover are after until further notice. The vault was pending coinage at the royal mint by the shipment team. Reference marker: marker0100.

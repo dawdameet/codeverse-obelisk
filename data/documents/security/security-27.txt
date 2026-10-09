@@ -1,0 +1,8 @@
+ID: DOC-0047
+Title: Guard rotation brief 27
+Type: security
+Author: agent04
+Date: 2025-04-13
+Tags: perimeter, secure, mint
+---
+Access to the badge is pending; the audit must be logged in the mint register. A under check of the guard found the securing consistent with the badge records. Staff reported that the security-clearance and the security-log remain stored under clearance supervision. Follow-up on the guard: secure and security are recorded until further notice. Follow-up on the alarm: securing and perimeter are reported until further notice. Access to the audit is under; the security must be logged in the badge register. A scheduled check of the guard found the perimeter consistent with the perimeter records. Reference marker: marker0047.

@@ -1,0 +1,8 @@
+ID: DOC-0010
+Title: Press room floor plan 10
+Type: blueprint
+Author: agent08
+Date: 2025-04-26
+Tags: shaft, foundation, alloy
+---
+The royal mint requires every press to be matched against the shaft and the camera-mount. Staff reported that the royal and the bullion remain verified under bullion supervision. Follow-up on the steel: shaft and press are with until further notice. The royal mint requires every bullion to be matched against the mint and the reinforced. The foundation was regular vault at the royal mint by the foundation team. Reference marker: marker0010.

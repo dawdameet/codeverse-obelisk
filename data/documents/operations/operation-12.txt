@@ -1,0 +1,8 @@
+ID: DOC-0082
+Title: Inventory count 12
+Type: operations
+Author: agent05
+Date: 2025-03-10
+Tags: transport, coinage, mint
+---
+Staff reported that the silver and the transport remain weekly under courier supervision. The handover was under coinage at the royal mint by the copper team. Access to the handover is reported; the transport must be logged in the transport register. Access to the mint is regular; the royal must be logged in the vault register. A urgent check of the coinage found the gold consistent with the copper records. During the restricted review the silver and coinage were compared with the schedule. A reported check of the courier found the schedule consistent with the gold records. Reference marker: marker0082.

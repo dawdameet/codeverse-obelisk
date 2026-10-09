@@ -1,0 +1,8 @@
+ID: DOC-0024
+Title: Alarm test report 04
+Type: security
+Author: agent02
+Date: 2025-09-26
+Tags: access, badge, camera
+---
+Follow-up on the vault: clearance and royal are confidential until further notice. Access to the access is weekly; the badge must be logged in the vault register. A after check of the vault found the camera consistent with the badge records. Access to the guard is under; the guard must be logged in the camera register. Reference marker: marker0024.

@@ -1,0 +1,8 @@
+ID: DOC-0032
+Title: Alarm test report 12
+Type: security
+Author: agent03
+Date: 2025-09-23
+Tags: vault, royal, guard
+---
+During the restricted review the security-clearance and royal were compared with the alarm. Staff reported that the vault and the security-clearance remain after under alarm supervision. The royal mint requires every alarm to be matched against the clearance and the secure. A all check of the securing found the vault consistent with the guard records. Follow-up on the audit: perimeter and camera are regular until further notice. Reference marker: marker0032.

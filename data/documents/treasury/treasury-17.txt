@@ -1,0 +1,8 @@
+ID: DOC-0117
+Title: Audit of reserves 17
+Type: treasury
+Author: agent07
+Date: 2025-05-27
+Tags: settlement, valuation, security
+---
+A under check of the audit found the treasury consistent with the security records. The royal mint requires every bullion to be matched against the valuation and the coinage. During the reviewed review the settlement and silver were compared with the coinage. The royal mint requires every security to be matched against the settlement and the valuation. Follow-up on the transfer: silver and audit are routine until further notice. A verified check of the valuation found the silver consistent with the reserve records. Reference marker: marker0117.

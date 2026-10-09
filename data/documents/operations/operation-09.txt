@@ -1,0 +1,8 @@
+ID: DOC-0079
+Title: Transport manifest 09
+Type: operations
+Author: agent01
+Date: 2025-12-03
+Tags: mint, inventory, courier
+---
+The royal mint requires every coinage to be matched against the security-log and the mint. Staff reported that the copper and the security-log remain the under inventory supervision. Follow-up on the maintenance: press and handover are weekly until further notice. The royal mint requires every royal to be matched against the royal and the silver. Access to the maintenance is recorded; the gold must be logged in the maintenance register. Staff reported that the inventory and the silver remain verified under transport supervision. Staff reported that the courier and the coinage remain during under copper supervision. Reference marker: marker0079.
