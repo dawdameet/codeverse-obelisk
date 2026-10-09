@@ -1,0 +1,3 @@
+#!/bin/sh
+# macOS / Linux launcher
+exec python3 "$(cd "$(dirname "$0")" && pwd)/codeverse.py" "$@"
